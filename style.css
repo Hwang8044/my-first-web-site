@@ -1,0 +1,5 @@
+h1{text-align: center; border-bottom: solid gray 1px; margin: 0; padding: 20px;}
+#grid{display: grid; grid-template-columns: 150px 1fr;}
+#grid ol, #grid ul{border-right: gray solid 1px; padding: 25px; margin: 0;}
+#article{padding-left: 25px;}
+.now{color: red;}
